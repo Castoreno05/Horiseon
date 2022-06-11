@@ -102,7 +102,6 @@ p {
     max-width: 150px;
 }
 
-
 .online-reputation-management, .social-media-marketing, .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,15 +111,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+.search-engine-optimization img, .social-media-marketing img, .online-reputation-management img  {
     max-height: 200px;
 }
 

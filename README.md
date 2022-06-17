@@ -1,4 +1,4 @@
-![Horiseon](Develop\assets\images\Horiseon.png)
+![Horiseon](Horiseon.png)
 
 ---
 

@@ -1,4 +1,4 @@
-![Horiseon](C:\Users\cm655\Desktop\Coding Curriculum\UTA-bootcamp\Horiseon\Develop\assets\images\Horiseon.png)
+![Horiseon](Develop\assets\images\Horiseon.png)
 
 ---
 

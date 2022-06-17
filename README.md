@@ -1,4 +1,4 @@
-## Horiseon 
+## The Idea: 
 
 Horiseon is an one-stop shop for improving the quality and quantity of web traffic to a website or web page using search engine optimization (SEO).
 
